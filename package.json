@@ -1,0 +1,15 @@
+{
+  "name": "script_identigy_link_and_download",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "ytdl-core": "^4.11.5"
+  }
+}
